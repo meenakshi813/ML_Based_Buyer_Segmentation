@@ -7,7 +7,7 @@ st.set_page_config(
     layout="wide"
 )
 
-df = pd.read_csv("C:\\Users\\Dell\\.py file\\final_dataset_with_clusters (4).csv")
+df = pd.read_csv("Buyer segment processed data.csv")
 st.title("🏠 Machine Learning Based Buyer Segmentation")
 
 st.markdown(
